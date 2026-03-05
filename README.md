@@ -1,5 +1,6 @@
 # 💫 About Me:
-I’m a 3rd-year Electronics and Communication Engineering student passionate about system-level programming and embedded systems.<br>Currently exploring Arduino, microcontrollers, and Linux-based development, with a strong focus on building efficient, low-level software and hardware-integrated projects.<br><br>I enjoy working with C, C++, and hardware interfaces (I2C, SPI, UART), and I’m learning to design secure and optimized systems.<br>My goal is to master embedded firmware, operating systems, and device driver development.
+Engineering student interested in **systems programming and backend development with C++ and Linux**. Comfortable with **C/C++, Data Structures & Algorithms, and core operating system concepts** like processes, memory management, and system calls. Experienced working in **Linux environments with Git and debugging tools**, and enjoys building performance-focused software and system utilities. Looking for opportunities to grow as a **systems or backend software engineer**.
+
 
 
 ## 🌐 Socials:
