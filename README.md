@@ -1,5 +1,6 @@
 # 💫 About Me:
-Engineering student passionate about backend and system-level development. I enjoy working with C++ and Linux, and building practical tools like a real-time system monitor. Curious about how systems work internally and focused on writing efficient, clean code. Currently improving problem-solving and aiming for a software developer role in a product-based company.
+
+Engineering student interested in systems programming and backend development with C++ and Linux. Comfortable with C/C++, Data Structures & Algorithms, and core operating system concepts like processes, memory management, and system calls. Experienced working in Linux environments with Git and debugging tools, and enjoys building performance-focused software and system utilities. Looking for opportunities to grow as a systems or backend software engineer..
 
 
 # 💻 Tech Stack:
