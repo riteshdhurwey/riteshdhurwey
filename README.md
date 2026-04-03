@@ -34,8 +34,6 @@ ECE student with hands-on experience in **systems programming** and **Linux inte
 </tr>
 </table>
 
-<!-- GitHub Trophy Card -->
-<img src="https://github-readme-stats-nts1.vercel.app/api?trophy&username=riteshdhurwey&theme=dark" alt="GitHub Trophy" />
 
 <!-- Pinned Repo -->
 [![SysMon](https://github-readme-stats-nts1.vercel.app/api/pin/?username=riteshdhurwey&repo=SysMon&theme=dark)](https://github.com/riteshdhurwey/SysMon)
